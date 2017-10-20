@@ -13,3 +13,4 @@ This may or may not have caused us to push from the wrong directory, although it
 This created an unresolvable (from our experience level) difference between the fork and masters that were attempting to merge properly. We ultimately had to start over, with a new properly labelled separate directory and repository, and start the process from scratch (although we just copied our correct code into the new repository).
 
 My main takeaway from today was the emphasis I need to place on moving slowly and accurately in the command prompt and GitHub, both of which are still relatively foreign to me and thus prone to such accidents.
+/
