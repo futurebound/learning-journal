@@ -1,0 +1,3 @@
+Today was alright, I spent most of the time understanding what appendChild and innerHTML actually did and how to use them. As per usual, relied heavily on TAs and other students to help me out, but less than yesterday. I left with only a table header row printing, and once I got home I was able to get all the body rows printing as well (besides the footer row) so that was a nice feeling.
+
+Of course, that didn't last long because I decided to check the math of the totals printing in each column, and realized that they were printing totals from a different iteration than the hourly cookie sales figures in their respective store rows. So on to that problem! 
