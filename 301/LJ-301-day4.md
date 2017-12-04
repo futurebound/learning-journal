@@ -14,3 +14,31 @@ Server is a little funky, since it can be its own separate machine, can be refer
 _1st break_
 
 
+**HTTP Party**
+Browser create a HTTP Request Object
+HTTP Request has 3 parts:
+1. URL (twitter.com)
+2. Method (GET)
+3. Headers 
+
+The server:
+* receives the request
+* builds a response
+* sends it back to the client
+
+HTTP Response also has 3 parts:
+1. Status code (200, 301, 404, 500, etc)
+* <https://en.wikipedia.org/wiki/List_of_HTTP_status_codes>
+2. Headers (info about the server/file sent)
+3. Body (content of page)
+* HTML, CSS, JavaScript
+
+**JSON**
+Standard way to _serialize_ objects.
+* "Dehydration for data structures"
+* Reconstitute it later when needed
+Used instead of XML b/c:
+* More human readable
+* More "object-oriented"
+* Lighter
+
