@@ -1,0 +1,5 @@
+Realized that I'm falling behind today. This week of afternoon lecture and my resistance to stimulating myself through it has put me in a position where I do not feel confident with the material we covered. 
+
+The code wars assignments are simple and fun, but my jQuery aptitude leaves much to be desired. The assignment format is obviously different than what I was used to (operating from an existing code base) so I am learning that I need to spend more time familiarizing myself with it before I begin working on the TODOs, etc.
+
+I feel alright knowing these things, and how to study/approach the material going forward so we shall see how things progress and I'll start drinking caffeinated tea to be able to better manage the late afternoon/early evening lectures since the material we cover in them is crucial to my conceptual understanding of what we are doing during lab.
