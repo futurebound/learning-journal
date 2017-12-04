@@ -28,10 +28,10 @@ The server:
 
 HTTP Response also has 3 parts:
 1. Status code (200, 301, 404, 500, etc)
-* <https://en.wikipedia.org/wiki/List_of_HTTP_status_codes>
+    * <https://en.wikipedia.org/wiki/List_of_HTTP_status_codes>
 2. Headers (info about the server/file sent)
 3. Body (content of page)
-* HTML, CSS, JavaScript
+    * HTML, CSS, JavaScript
 
 **JSON**
 Standard way to _serialize_ objects.
