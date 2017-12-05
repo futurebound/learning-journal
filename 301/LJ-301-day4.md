@@ -11,7 +11,9 @@ Communication from view to controller is known as a **request (req)**, and the c
 Server is a little funky, since it can be its own separate machine, can be referring to a single file on your machine (file telling front end what to do when it gets a request).
 
 
+
 _1st break_
+
 
 
 **HTTP Party**
@@ -42,3 +44,14 @@ Used instead of XML b/c:
 * More "object-oriented"
 * Lighter
 
+
+**AJAX**
+* "Asynchronous JavaScrpt and XML"
+* Mostly JSON these days
+
+
+HMM. OK scratch the above method, this may be much more useful as a summary that I make for my own purposes after lecture. Not that the above points are bad by any means, but they are all straight from PDFs that are being slacked out or available in the lab repo. 
+
+Will try another method tomorrow that feels better and adjust accordingly.
+
+Still losing focus around 4PM, which is of course the meat of the lecture and exploration of topics covered. Not sure what to do about this because caffeine later than noon negatively affects sleep cycle.
